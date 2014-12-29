@@ -20,6 +20,7 @@ include 'inc/topmenu.php';
 <div class="row">
     <?php
     include 'inc/categories.php';
+    include 'inc/categories.php';
     include 'inc/content.php'
 
 
