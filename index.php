@@ -1,7 +1,7 @@
 <?php
- include '@/include/config.php';
- include '@/include/libraries.php';
- include '@/include/resource.php';
+ include 'ads/include/config.php';
+ include 'ads/include/libraries.php';
+ include 'ads/include/resource.php';
 ?>
 <html ng-app="">
 <head>
