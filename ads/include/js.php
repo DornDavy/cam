@@ -28,10 +28,9 @@
         $('#e2').select2();
     });
 
+    CKEDITOR.plugins.addExternal( 'upload', '../../asset/ckeditor/plugin/imgupload/', 'plugin.js' );
     CKEDITOR.replace('des',{
-        config.skin='office2013'
-
-
+//        extraPlugins:'upload'
     });
 
 </script>

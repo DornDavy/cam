@@ -13,10 +13,10 @@
  * (1) http://ckeditor.com/builder
  *     Visit online builder to build CKEditor from scratch.
  *
- * (2) http://ckeditor.com/builder/82f6a96252bd72fd2f9773a613853ba2
+ * (2) http://ckeditor.com/builder/be3645f9f381dba16467acee35cc991e
  *     Visit online builder to build CKEditor, starting with the same setup as before.
  *
- * (3) http://ckeditor.com/builder/download/82f6a96252bd72fd2f9773a613853ba2
+ * (3) http://ckeditor.com/builder/download/be3645f9f381dba16467acee35cc991e
  *     Straight download link to the latest version of CKEditor (Optimized) with the same setup as before.
  *
  * NOTE:
@@ -25,7 +25,7 @@
  */
 
 var CKBUILDER_CONFIG = {
-	skin: 'office2013',
+	skin: 'bootstrapck',
 	preset: 'full',
 	ignore: [
 		'.bender',
@@ -36,7 +36,7 @@ var CKBUILDER_CONFIG = {
 		'.DS_Store',
 		'.gitattributes',
 		'.gitignore',
-		'gruntfile.js',
+		'Gruntfile.js',
 		'.idea',
 		'.jscsrc',
 		'.jshintignore',
@@ -50,10 +50,10 @@ var CKBUILDER_CONFIG = {
 	plugins : {
 		'a11yhelp' : 1,
 		'about' : 1,
+		'autocorrect' : 1,
 		'basicstyles' : 1,
 		'bidi' : 1,
 		'blockquote' : 1,
-		'ckeditor-gwf-plugin' : 1,
 		'clipboard' : 1,
 		'colorbutton' : 1,
 		'colordialog' : 1,
@@ -68,29 +68,20 @@ var CKBUILDER_CONFIG = {
 		'flash' : 1,
 		'floatingspace' : 1,
 		'font' : 1,
-		'fontawesome' : 1,
 		'format' : 1,
 		'forms' : 1,
-		'gg' : 1,
 		'horizontalrule' : 1,
-		'htmlbuttons' : 1,
 		'htmlwriter' : 1,
 		'iframe' : 1,
 		'image' : 1,
-		'imagebrowser' : 1,
-		'imgbrowse' : 1,
-		'imgupload' : 1,
 		'indentblock' : 1,
 		'indentlist' : 1,
 		'justify' : 1,
 		'language' : 1,
-		'lightbox' : 1,
 		'link' : 1,
 		'list' : 1,
 		'liststyle' : 1,
-		'locationmap' : 1,
 		'magicline' : 1,
-		'mathedit' : 1,
 		'maximize' : 1,
 		'newpage' : 1,
 		'pagebreak' : 1,
@@ -105,7 +96,6 @@ var CKBUILDER_CONFIG = {
 		'selectall' : 1,
 		'showblocks' : 1,
 		'showborders' : 1,
-		'simple-image-browser' : 1,
 		'smiley' : 1,
 		'sourcearea' : 1,
 		'specialchar' : 1,
@@ -115,11 +105,10 @@ var CKBUILDER_CONFIG = {
 		'tabletools' : 1,
 		'templates' : 1,
 		'toolbar' : 1,
-		'uicolor' : 1,
 		'undo' : 1,
 		'wsc' : 1,
 		'wysiwygarea' : 1,
-		'xmas' : 1
+		'youtube' : 1
 	},
 	languages : {
 		'af' : 1,

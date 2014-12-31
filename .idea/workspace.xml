@@ -1,0 +1,660 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="05e1f45f-d680-4507-bdfd-8a331d2c0459" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/cam.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/order.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\.jscsrc" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\.jshintignore" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\.jshintrc" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\bender.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\core\_bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\core\ckeditor.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\core\ckeditor_base.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\core\ckeditor_basic.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\core\command.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\core\commanddefinition.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\core\config.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\core\creators\inline.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\core\creators\themedui.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\core\dataprocessor.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\core\dom.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\core\dom\comment.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\core\dom\document.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\core\dom\documentfragment.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\core\dom\domobject.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\core\dom\element.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\core\dom\elementpath.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\core\dom\event.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\core\dom\iterator.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\core\dom\node.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\core\dom\nodelist.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\core\dom\range.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\core\dom\rangelist.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\core\dom\text.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\core\dom\walker.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\core\dom\window.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\core\dtd.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\core\editable.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\core\editor.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\core\editor_basic.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\core\env.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\core\event.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\core\eventInfo.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\core\filter.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\core\focusmanager.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\core\htmldataprocessor.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\core\htmlparser.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\core\htmlparser\basicwriter.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\core\htmlparser\cdata.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\core\htmlparser\comment.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\core\htmlparser\element.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\core\htmlparser\filter.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\core\htmlparser\fragment.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\core\htmlparser\node.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\core\htmlparser\text.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\core\keystrokehandler.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\core\lang.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\core\loader.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\core\plugindefinition.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\core\plugins.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\core\resourcemanager.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\core\scriptloader.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\core\selection.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\core\skin.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\core\style.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\core\template.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\core\tools.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\core\ui.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\gruntfile.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\lang\_translationstatus.txt" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\package.json" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\colorpanel.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\dialog.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\editor.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\elementspath.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\about.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\anchor-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\anchor.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\autocorrect.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\bgcolor.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\bidiltr.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\bidirtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\blockquote.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\bold.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\bulletedlist-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\bulletedlist.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\button.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\checkbox.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\copy-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\copy.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\cut-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\cut.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\docprops-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\docprops.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\find-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\find.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\form.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hiddenfield.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\about.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\anchor-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\anchor.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\autocorrect.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\bgcolor.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\bidiltr.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\bidirtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\blockquote.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\bold.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\bulletedlist-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\bulletedlist.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\button.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\checkbox.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\copy-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\copy.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\cut-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\cut.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\docprops-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\docprops.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\find-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\find.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\form.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\hiddenfield.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\horizontalrule.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\iframe.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\image.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\imagebutton.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\indent-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\indent.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\italic.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\justifyblock.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\justifycenter.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\justifyleft.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\justifyright.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\language.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\link.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\mathjax.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\maximize.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\newpage-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\newpage.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\numberedlist-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\numberedlist.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\outdent-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\outdent.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\pagebreak-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\pagebreak.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\paste-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\paste.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\pastefromword-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\pastefromword.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\pastetext-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\pastetext.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\preview-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\preview.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\print.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\radio.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\redo-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\redo.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\removeformat.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\replace.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\save.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\scayt.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\select-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\select.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\selectall.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\showblocks-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\showblocks.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\smiley.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\source-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\source.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\sourcedialog-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\sourcedialog.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\specialchar.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\spellchecker.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\strike.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\subscript.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\superscript.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\table.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\templates.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\textarea-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\textarea.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\textcolor.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\textfield-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\textfield.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\uicolor.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\underline.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\undo-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\undo.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\hidpi\unlink.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\horizontalrule.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\iframe.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\image.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\imagebutton.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\indent-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\indent.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\italic.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\justifyblock.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\justifycenter.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\justifyleft.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\justifyright.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\language.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\link.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\mathjax.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\maximize.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\newpage-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\newpage.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\numberedlist-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\numberedlist.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\outdent-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\outdent.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\pagebreak-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\pagebreak.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\paste-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\paste.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\pastefromword-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\pastefromword.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\pastetext-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\pastetext.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\preview-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\preview.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\print.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\radio.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\redo-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\redo.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\removeformat.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\replace.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\save.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\scayt.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\select-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\select.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\selectall.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\showblocks-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\showblocks.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\smiley.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\source-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\source.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\sourcedialog-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\sourcedialog.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\specialchar.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\spellchecker.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\strike.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\subscript.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\superscript.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\table.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\templates.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\textarea-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\textarea.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\textcolor.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\textfield-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\textfield.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\uicolor.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\underline.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\undo-rtl.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\undo.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\icons\unlink.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\images\arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\images\close.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\images\hidpi\close.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\images\hidpi\lock-open.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\images\hidpi\lock.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\images\hidpi\refresh.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\images\lock-open.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\images\lock.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\images\refresh.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\mainui.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\menu.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\panel.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\presets.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\reset.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\richcombo.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\skin.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\wamp\www\cam\asset\ckeditor\skins\office2013\toolbar.css" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/CHANGES.md" afterPath="$PROJECT_DIR$/asset/ckeditor/CHANGES.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/LICENSE.md" afterPath="$PROJECT_DIR$/asset/ckeditor/LICENSE.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/lang/af.js" afterPath="$PROJECT_DIR$/asset/ckeditor/lang/af.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/samples/ajax.html" afterPath="$PROJECT_DIR$/asset/ckeditor/samples/ajax.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/samples/api.html" afterPath="$PROJECT_DIR$/asset/ckeditor/samples/api.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/samples/appendto.html" afterPath="$PROJECT_DIR$/asset/ckeditor/samples/appendto.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/lang/ar.js" afterPath="$PROJECT_DIR$/asset/ckeditor/lang/ar.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/lang/bg.js" afterPath="$PROJECT_DIR$/asset/ckeditor/lang/bg.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/lang/bn.js" afterPath="$PROJECT_DIR$/asset/ckeditor/lang/bn.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/lang/bs.js" afterPath="$PROJECT_DIR$/asset/ckeditor/lang/bs.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/build-config.js" afterPath="$PROJECT_DIR$/asset/ckeditor/build-config.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/lang/ca.js" afterPath="$PROJECT_DIR$/asset/ckeditor/lang/ca.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inc/categories.php" afterPath="$PROJECT_DIR$/inc/categories.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/ckeditor.js" afterPath="$PROJECT_DIR$/asset/ckeditor/ckeditor.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/config.js" afterPath="$PROJECT_DIR$/asset/ckeditor/config.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inc/content.php" afterPath="$PROJECT_DIR$/inc/content.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/contents.css" afterPath="$PROJECT_DIR$/asset/ckeditor/contents.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/lang/cs.js" afterPath="$PROJECT_DIR$/asset/ckeditor/lang/cs.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/lang/cy.js" afterPath="$PROJECT_DIR$/asset/ckeditor/lang/cy.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/lang/da.js" afterPath="$PROJECT_DIR$/asset/ckeditor/lang/da.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/samples/datafiltering.html" afterPath="$PROJECT_DIR$/asset/ckeditor/samples/datafiltering.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/lang/de.js" afterPath="$PROJECT_DIR$/asset/ckeditor/lang/de.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/samples/divreplace.html" afterPath="$PROJECT_DIR$/asset/ckeditor/samples/divreplace.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/lang/el.js" afterPath="$PROJECT_DIR$/asset/ckeditor/lang/el.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/lang/en-au.js" afterPath="$PROJECT_DIR$/asset/ckeditor/lang/en-au.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/lang/en-ca.js" afterPath="$PROJECT_DIR$/asset/ckeditor/lang/en-ca.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/lang/en-gb.js" afterPath="$PROJECT_DIR$/asset/ckeditor/lang/en-gb.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/lang/en.js" afterPath="$PROJECT_DIR$/asset/ckeditor/lang/en.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/lang/eo.js" afterPath="$PROJECT_DIR$/asset/ckeditor/lang/eo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/lang/es.js" afterPath="$PROJECT_DIR$/asset/ckeditor/lang/es.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/lang/et.js" afterPath="$PROJECT_DIR$/asset/ckeditor/lang/et.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/lang/eu.js" afterPath="$PROJECT_DIR$/asset/ckeditor/lang/eu.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/lang/fa.js" afterPath="$PROJECT_DIR$/asset/ckeditor/lang/fa.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/lang/fi.js" afterPath="$PROJECT_DIR$/asset/ckeditor/lang/fi.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/lang/fo.js" afterPath="$PROJECT_DIR$/asset/ckeditor/lang/fo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/lang/fr-ca.js" afterPath="$PROJECT_DIR$/asset/ckeditor/lang/fr-ca.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/lang/fr.js" afterPath="$PROJECT_DIR$/asset/ckeditor/lang/fr.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/lang/gl.js" afterPath="$PROJECT_DIR$/asset/ckeditor/lang/gl.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/lang/gu.js" afterPath="$PROJECT_DIR$/asset/ckeditor/lang/gu.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/lang/he.js" afterPath="$PROJECT_DIR$/asset/ckeditor/lang/he.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/lang/hi.js" afterPath="$PROJECT_DIR$/asset/ckeditor/lang/hi.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/lang/hr.js" afterPath="$PROJECT_DIR$/asset/ckeditor/lang/hr.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/lang/hu.js" afterPath="$PROJECT_DIR$/asset/ckeditor/lang/hu.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/lang/id.js" afterPath="$PROJECT_DIR$/asset/ckeditor/lang/id.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/samples/index.html" afterPath="$PROJECT_DIR$/asset/ckeditor/samples/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/samples/inlineall.html" afterPath="$PROJECT_DIR$/asset/ckeditor/samples/inlineall.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/samples/inlinebycode.html" afterPath="$PROJECT_DIR$/asset/ckeditor/samples/inlinebycode.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/samples/inlinetextarea.html" afterPath="$PROJECT_DIR$/asset/ckeditor/samples/inlinetextarea.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/lang/is.js" afterPath="$PROJECT_DIR$/asset/ckeditor/lang/is.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/lang/it.js" afterPath="$PROJECT_DIR$/asset/ckeditor/lang/it.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/lang/ja.js" afterPath="$PROJECT_DIR$/asset/ckeditor/lang/ja.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/samples/jquery.html" afterPath="$PROJECT_DIR$/asset/ckeditor/samples/jquery.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ads/include/js.php" afterPath="$PROJECT_DIR$/ads/include/js.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/lang/ka.js" afterPath="$PROJECT_DIR$/asset/ckeditor/lang/ka.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/lang/km.js" afterPath="$PROJECT_DIR$/asset/ckeditor/lang/km.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/lang/ko.js" afterPath="$PROJECT_DIR$/asset/ckeditor/lang/ko.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/lang/ku.js" afterPath="$PROJECT_DIR$/asset/ckeditor/lang/ku.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/samples/assets/uilanguages/languages.js" afterPath="$PROJECT_DIR$/asset/ckeditor/samples/assets/uilanguages/languages.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/lang/lt.js" afterPath="$PROJECT_DIR$/asset/ckeditor/lang/lt.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/lang/lv.js" afterPath="$PROJECT_DIR$/asset/ckeditor/lang/lv.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/lang/mk.js" afterPath="$PROJECT_DIR$/asset/ckeditor/lang/mk.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/lang/mn.js" afterPath="$PROJECT_DIR$/asset/ckeditor/lang/mn.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/lang/ms.js" afterPath="$PROJECT_DIR$/asset/ckeditor/lang/ms.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/lang/nb.js" afterPath="$PROJECT_DIR$/asset/ckeditor/lang/nb.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/lang/nl.js" afterPath="$PROJECT_DIR$/asset/ckeditor/lang/nl.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/lang/no.js" afterPath="$PROJECT_DIR$/asset/ckeditor/lang/no.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/samples/assets/outputxhtml/outputxhtml.css" afterPath="$PROJECT_DIR$/asset/ckeditor/samples/assets/outputxhtml/outputxhtml.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/lang/pl.js" afterPath="$PROJECT_DIR$/asset/ckeditor/lang/pl.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/samples/assets/posteddata.php" afterPath="$PROJECT_DIR$/asset/ckeditor/samples/assets/posteddata.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/lang/pt-br.js" afterPath="$PROJECT_DIR$/asset/ckeditor/lang/pt-br.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/lang/pt.js" afterPath="$PROJECT_DIR$/asset/ckeditor/lang/pt.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/samples/readonly.html" afterPath="$PROJECT_DIR$/asset/ckeditor/samples/readonly.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/samples/replacebyclass.html" afterPath="$PROJECT_DIR$/asset/ckeditor/samples/replacebyclass.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/samples/replacebycode.html" afterPath="$PROJECT_DIR$/asset/ckeditor/samples/replacebycode.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/lang/ro.js" afterPath="$PROJECT_DIR$/asset/ckeditor/lang/ro.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/lang/ru.js" afterPath="$PROJECT_DIR$/asset/ckeditor/lang/ru.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/samples/sample.css" afterPath="$PROJECT_DIR$/asset/ckeditor/samples/sample.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/samples/sample.js" afterPath="$PROJECT_DIR$/asset/ckeditor/samples/sample.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/samples/sample_posteddata.php" afterPath="$PROJECT_DIR$/asset/ckeditor/samples/sample_posteddata.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/lang/si.js" afterPath="$PROJECT_DIR$/asset/ckeditor/lang/si.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/lang/sk.js" afterPath="$PROJECT_DIR$/asset/ckeditor/lang/sk.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/lang/sl.js" afterPath="$PROJECT_DIR$/asset/ckeditor/lang/sl.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inc/sponsor_right.php" afterPath="$PROJECT_DIR$/inc/sponsor_right.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/lang/sq.js" afterPath="$PROJECT_DIR$/asset/ckeditor/lang/sq.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/lang/sr-latn.js" afterPath="$PROJECT_DIR$/asset/ckeditor/lang/sr-latn.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/lang/sr.js" afterPath="$PROJECT_DIR$/asset/ckeditor/lang/sr.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/styles.js" afterPath="$PROJECT_DIR$/asset/ckeditor/styles.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/lang/sv.js" afterPath="$PROJECT_DIR$/asset/ckeditor/lang/sv.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/samples/tabindex.html" afterPath="$PROJECT_DIR$/asset/ckeditor/samples/tabindex.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/lang/th.js" afterPath="$PROJECT_DIR$/asset/ckeditor/lang/th.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/lang/tr.js" afterPath="$PROJECT_DIR$/asset/ckeditor/lang/tr.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/lang/tt.js" afterPath="$PROJECT_DIR$/asset/ckeditor/lang/tt.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/lang/ug.js" afterPath="$PROJECT_DIR$/asset/ckeditor/lang/ug.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/samples/uicolor.html" afterPath="$PROJECT_DIR$/asset/ckeditor/samples/uicolor.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/samples/uilanguages.html" afterPath="$PROJECT_DIR$/asset/ckeditor/samples/uilanguages.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/lang/uk.js" afterPath="$PROJECT_DIR$/asset/ckeditor/lang/uk.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/lang/vi.js" afterPath="$PROJECT_DIR$/asset/ckeditor/lang/vi.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/samples/xhtmlstyle.html" afterPath="$PROJECT_DIR$/asset/ckeditor/samples/xhtmlstyle.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/lang/zh-cn.js" afterPath="$PROJECT_DIR$/asset/ckeditor/lang/zh-cn.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/ckeditor/lang/zh.js" afterPath="$PROJECT_DIR$/asset/ckeditor/lang/zh.js" />
+    </list>
+    <ignored path="cam.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="cam" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="create_user.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ads/create_user.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.75261325" vertical-offset="0" max-vertical-offset="1296">
+              <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="true" />
+    </FindUsagesManager>
+  </component>
+  <component name="FrameworkCommandLineHistory">
+    <commandsHistory>
+      <command text="git commit -a -u &quot;Delete mex&quot;" />
+    </commandsHistory>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="754" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cam" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cam" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cam" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cam" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cam" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="inc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cam" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cam" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ads" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\wamp\www\cam\ads" />
+      <recent name="E:\wamp\www\cam" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="05e1f45f-d680-4507-bdfd-8a331d2c0459" name="Default" comment="" />
+      <created>1419903764313</created>
+      <option name="number" value="Default" />
+      <updated>1419903764313</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972136" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/order.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="912">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/categories.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="432">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/sponsor_right.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="192" max-vertical-offset="336">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ads/create_sponsor_detail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1130" max-vertical-offset="1704">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ads/include/js.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1080">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ads/include/js.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7944251" vertical-offset="336" max-vertical-offset="1080">
+          <caret line="33" column="7" selection-start-line="33" selection-start-column="7" selection-end-line="33" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ads/create_sponsor_detail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.6341463" vertical-offset="1130" max-vertical-offset="1704">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/categories.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.72727275" vertical-offset="0" max-vertical-offset="432">
+          <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/css.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="720">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/content.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20905924" vertical-offset="0" max-vertical-offset="936">
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/sponsor_right.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="587">
+          <caret line="0" column="34" selection-start-line="0" selection-start-column="34" selection-end-line="0" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4088586" vertical-offset="216" max-vertical-offset="912">
+          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ads/create_user.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.75261325" vertical-offset="0" max-vertical-offset="1296">
+          <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

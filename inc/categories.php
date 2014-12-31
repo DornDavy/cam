@@ -1,5 +1,5 @@
 
-<div class="col-md-3">
+<div class="col-md-3 ">
     <div class="panel panel-default" style="margin-top: 10px;">
         <div class="panel-heading"><span class="glyphicon glyphicon-align-justify"></span> Categories</div>
         <div class="panel panel-body">

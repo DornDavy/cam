@@ -1,4 +1,4 @@
-<div class="col-lg-6 " style="margin-top: 10px;">
+<div class="col-lg-6" style="margin-top: 10px;">
     <div class="row" style="margin-left: 0px;">
         <div class="col-lg-4">
 
