@@ -13,20 +13,6 @@ function lookup($table,$field,$id)
     }
 
 }
-
-//function select($table)
-//{
-//    $arr = [];
-//    $sql = "select * from $table";
-//    @mysql_query("set character_set_results='utf8'" );
-//    $query = @mysql_query($sql);
-//
-//    while ($row=@mysql_fetch_assoc($query)) {
-//        $arr[] = $row;
-//    }
-//    return json_encode($arr);
-//}
-
 function destroy($table,$field,$id)
 {
     $sql = "delete from $table WHERE  $field=$id";
@@ -48,24 +34,11 @@ function create($table,$field,$value)
         $sql .= "'$value[$i]',";
     }
     $sql .= "'$value[$count]')";
+    mysql_query("set character_set_results='utf8'" );
     return mysql_query($sql);
 
 }
-
-//function select_id($table,$field_id,$id,$field)
-//{
-//
-//    if (isset($_GET['id'])) {
-//        $sql = "select * from $table WHERE $field_id='$id' ";
-//        $query = mysql_query($sql);
-//
-//        if ($row=mysql_fetch_assoc($query)) {
-//            echo $row[$field];
-//        }
-//
-//    }
-//
-//}
+/*Update function*/
 function update($table,$field,$value,$field_id,$id)
 {
     $count=count($field)-1;
@@ -75,6 +48,7 @@ function update($table,$field,$value,$field_id,$id)
     }
     $sql.="$field[$i]='$value[$i]'";
     $sql.="where $field_id=$id";
+    mysql_query("set character_set_results='utf8'" );
     return mysql_query($sql);
 }
 
@@ -90,6 +64,19 @@ function login($email,$pwd)
         $result = false;
     }
     return $result;
+}
+function existing($table,$field,$value)
+{
+    $sql = "SELECT COUNT(*) AS record FROM $table WHERE $field='$value'";
+    $qry = @mysql_query($sql);
+    $row = @mysql_fetch_assoc($qry);
+    $count = $row['record'];
+    if ($count) {
+        return true;
+    } else {
+        return false;
+    }
+
 }
 function session($session)
 {
