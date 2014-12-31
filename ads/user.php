@@ -28,7 +28,7 @@ include "include/css.php";
 
             </div>
                 <div class="col-lg-10">
-                    <a href="create_category.php" class="btn btn-primary">Create</a>
+                    <a href="create_user.php" class="btn btn-primary">Create</a>
                 </div>
                 <div class="col-lg-2">
 
