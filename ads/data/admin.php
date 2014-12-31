@@ -4,7 +4,7 @@ include '../include/config.php';
 include '../include/libraries.php';
 include 'restrict.php';
 $arr = [];
-$sql = "select * from user";
+$sql = "select * from admin";
 mysql_query("set character_set_results='utf8'" );
 $query = mysql_query($sql);
 
