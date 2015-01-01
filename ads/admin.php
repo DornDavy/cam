@@ -5,7 +5,7 @@ include 'include/libraries.php';
 include "include/restrict.php";
 include "include/css.php";
 ?>
-<div class="container head " ng-controller="UserCtrl">
+<div class="container head " ng-controller="AdminCtrl">
 
     <div style="margin-top: 50px;">
 
@@ -54,17 +54,17 @@ include "include/css.php";
                 </tr>
                 </thead>
                         <tbody>
-                            <tr ng-repeat="user in users | filter:search">
-                                <td>{{ user.id}}</td>
-                                <td>{{ user.kh_name}}</td>
-                                <td>{{ user.en_name}}</td>
+                            <tr ng-repeat="admin in admins | filter:search">
+                                <td>{{ admin.id}}</td>
+                                <td>{{ admin.kh_name}}</td>
+                                <td>{{ admin.en_name}}</td>
                                 <td>{{ user.sex}}</td>
-                                <td>{{ user.dob}}</td>
-                                <td>{{ user.pob}}</td>
-                                <td>{{ user.email}}</td>
-                                <td>{{ user.phone}}</td>
-                                <td>{{ user.address}}</td>
-                                <td>{{ user.register_date}}</td>
+                                <td>{{ admin.dob}}</td>
+                                <td>{{ admin.pob}}</td>
+                                <td>{{ admin.email}}</td>
+                                <td>{{ admin.phone}}</td>
+                                <td>{{ admin.address}}</td>
+                                <td>{{ admin.register_date}}</td>
 
                                 <td>
                                     <div class="btn-group">
@@ -90,9 +90,9 @@ include "include/css.php";
 include('include/js.php')
 ?>
 <script>
-    function UserCtrl($scope,$http) {
-        $http.get('data/users.php').success(function(data){
-            $scope.users = data;
+    function AdminCtrl($scope,$http) {
+        $http.get('data/admin.php').success(function(data){
+            $scope.admins = data;
         }).error.data="error in fetching data";
     }
 </script>
